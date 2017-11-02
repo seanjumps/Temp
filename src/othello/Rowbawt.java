@@ -1,0 +1,21 @@
+/*
+
+
+
+	while not core repeat
+		step
+		if wall then
+			turn
+			if wall then
+				turn
+				turn
+			endif
+		endif
+	end
+	capture
+
+
+
+
+
+*/
